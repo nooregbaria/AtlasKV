@@ -1,0 +1,474 @@
+get. : 
+1 client :
+
+1: 
+Connected to AtlasKV!
+Average latency: 0.05 ms
+P50 latency: 0.05 ms
+P95 latency: 0.08 ms
+P99 latency: 0.11 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 0.53 seconds
+Throughput: 18830.78 requests/sec
+
+Combined throughput: 18780.75 requests/sec
+
+2:
+Connected to AtlasKV!
+Average latency: 0.07 ms
+P50 latency: 0.05 ms
+P95 latency: 0.13 ms
+P99 latency: 0.22 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 0.69 seconds
+Throughput: 14474.76 requests/sec
+
+Combined throughput: 14423.92 requests/sec
+
+3: 
+Connected to AtlasKV!
+Average latency: 0.10 ms
+P50 latency: 0.07 ms
+P95 latency: 0.19 ms
+P99 latency: 0.42 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 1.03 seconds
+Throughput: 9708.51 requests/sec
+
+Combined throughput: 9688.59 requests/sec
+
+5 clients :  
+
+1: 
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Average latency: 0.11 ms
+P50 latency: Average latency: Average latency: 0.11 ms
+P50 latency: 0.10 ms
+P95 latency: 0.100.11 ms
+ ms
+0.16 ms
+P99 latency: 0.23 ms
+GET requests: P50 latency: 0.1010000
+Successful requests: 10000
+Total time:  ms
+1.12P95 latency:  seconds
+Throughput: P95 latency: 0.170.16 ms
+P99 latency:  ms
+P99 latency: 0.22 ms
+GET requests: 0.228930.97 requests/sec
+ ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 1.12 seconds
+Throughput: 8929.97 requests/sec
+10000
+Successful requests: 10000
+Total time: 1.12 seconds
+Throughput: 8931.79 requests/sec
+Average latency: 0.11 ms
+P50 latency: 0.10 ms
+P95 latency: 0.17 ms
+P99 latency: Average latency: 0.11 ms
+P50 latency: 0.10 ms
+P95 latency: 0.17 ms
+P99 latency: 0.22 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 1.12 seconds
+Throughput: 0.22 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 1.12 seconds
+Throughput: 8914.65 requests/sec
+8914.97 requests/sec
+
+Combined throughput: 44510.35 requests/sec
+
+2:
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Average latency: 0.16 ms
+P50 latency: 0.13 ms
+P95 latency: 0.27 ms
+P99 latency: 0.58 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 1.63 seconds
+Throughput: 6137.07 requests/sec
+Average latency: 0.16 ms
+P50 latency: 0.13 ms
+P95 latency: 0.27 ms
+P99 latency: 0.55 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 1.63 seconds
+Throughput: 6123.74 requests/sec
+Average latency: 0.16 ms
+P50 latency: 0.13 ms
+P95 latency: 0.27 ms
+P99 latency: 0.58 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 1.63 seconds
+Throughput: 6122.34 requests/sec
+Average latency: 0.16 ms
+P50 latency: 0.13 ms
+P95 latency: 0.27 ms
+P99 latency: 0.60 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 1.63 seconds
+Throughput: 6119.94 requests/sec
+Average latency: 0.16 ms
+P50 latency: 0.13 ms
+P95 latency: 0.27 ms
+P99 latency: 0.56 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 1.64 seconds
+Throughput: 6115.49 requests/sec
+
+Combined throughput: 30545.85 requests/sec
+
+3:
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Average latency: 0.17 ms
+P50 latency: 0.13 ms
+P95 latency: 0.31 ms
+P99 latency: 0.75 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 1.68 seconds
+Throughput: 5959.22 requests/sec
+Average latency: 0.17 ms
+P50 latency: 0.13 ms
+P95 latency: 0.30 ms
+P99 latency: 0.76 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 1.68 seconds
+Throughput: 5957.09 requests/sec
+Average latency: 0.17 ms
+P50 latency: 0.13 ms
+P95 latency: 0.31 ms
+P99 latency: 0.75 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 1.68 seconds
+Throughput: 5951.69 requests/sec
+Average latency: 0.17 ms
+P50 latency: 0.13 ms
+P95 latency: 0.30 ms
+P99 latency: 0.78 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 1.68 seconds
+Throughput: 5947.39 requests/sec
+Average latency: 0.17 ms
+P50 latency: 0.13 ms
+P95 latency: 0.31 ms
+P99 latency: 0.80 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 1.68 seconds
+Throughput: 5942.52 requests/sec
+
+Combined throughput: 29675.80 requests/sec
+
+10 clients : 
+1:
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Average latency: 0.20 ms
+P50 latency: 0.19 ms
+P95 latency: 0.31 ms
+P99 latency: 0.40 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.06 seconds
+Throughput: 4859.80 requests/sec
+Average latency: 0.21 ms
+P50 latency: 0.19 ms
+P95 latency: 0.30 ms
+P99 latency: 0.42 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.06 seconds
+Throughput: 4855.94 requests/sec
+Average latency: 0.21 ms
+P50 latency: 0.19 ms
+P95 latency: 0.30 ms
+P99 latency: 0.41 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.06 seconds
+Throughput: 4855.78 requests/sec
+Average latency: 0.21 ms
+P50 latency: 0.19 ms
+P95 latency: 0.30 ms
+P99 latency: 0.41 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.06 seconds
+Throughput: 4855.02 requests/sec
+Average latency: 0.21 ms
+P50 latency: 0.19 ms
+P95 latency: 0.30 ms
+P99 latency: 0.41 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.06 seconds
+Throughput: 4853.82 requests/sec
+Average latency: 0.21 ms
+P50 latency: 0.19 ms
+P95 latency: 0.30 ms
+P99 latency: 0.42 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.06 seconds
+Throughput: 4851.90 requests/sec
+Average latency: 0.21 ms
+P50 latency: 0.19 ms
+P95 latency: 0.31 ms
+P99 latency: 0.42 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.06 seconds
+Throughput: 4846.98 requests/sec
+Average latency: 0.21 ms
+P50 latency: 0.19 ms
+P95 latency: 0.30 ms
+P99 latency: 0.43 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.06 seconds
+Throughput: 4847.18 requests/sec
+Average latency: 0.21 ms
+P50 latency: 0.19 ms
+P95 latency: 0.31 ms
+P99 latency: 0.42 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.06 seconds
+Throughput: 4843.21 requests/sec
+Average latency: 0.21 ms
+P50 latency: 0.19 ms
+P95 latency: 0.31 ms
+P99 latency: 0.45 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.08 seconds
+Throughput: 4815.98 requests/sec
+
+Combined throughput: 48111.80 requests/sec
+
+2:
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.73 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.40 seconds
+Throughput: 4169.56 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.69 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.40 seconds
+Throughput: 4166.09 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.70 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.40 seconds
+Throughput: 4164.83 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.72 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.40 seconds
+Throughput: 4162.64 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.72 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.40 seconds
+Throughput: 4159.52 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.72 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.40 seconds
+Throughput: 4159.34 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.71 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.41 seconds
+Throughput: 4155.93 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.74 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.41 seconds
+Throughput: 4156.19 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.74 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.41 seconds
+Throughput: 4155.44 requests/sec
+Average latency: 0.25 ms
+P50 latency: 0.21 ms
+P95 latency: 0.44 ms
+P99 latency: 0.92 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.46 seconds
+Throughput: 4062.60 requests/sec
+
+Combined throughput: 40599.30 requests/sec
+
+3:
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Connected to AtlasKV!
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.73 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.40 seconds
+Throughput: 4169.56 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.69 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.40 seconds
+Throughput: 4166.09 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.70 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.40 seconds
+Throughput: 4164.83 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.72 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.40 seconds
+Throughput: 4162.64 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.72 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.40 seconds
+Throughput: 4159.52 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.72 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.40 seconds
+Throughput: 4159.34 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.71 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.41 seconds
+Throughput: 4155.93 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.74 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.41 seconds
+Throughput: 4156.19 requests/sec
+Average latency: 0.24 ms
+P50 latency: 0.21 ms
+P95 latency: 0.38 ms
+P99 latency: 0.74 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.41 seconds
+Throughput: 4155.44 requests/sec
+Average latency: 0.25 ms
+P50 latency: 0.21 ms
+P95 latency: 0.44 ms
+P99 latency: 0.92 ms
+GET requests: 10000
+Successful requests: 10000
+Total time: 2.46 seconds
+Throughput: 4062.60 requests/sec
+
+Combined throughput: 40599.30 requests/sec
+

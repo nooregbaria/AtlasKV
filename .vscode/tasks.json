@@ -1,0 +1,53 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build AtlasKV applications",
+            "type": "shell",
+            "command": "make",
+            "args": [
+                "-j4",
+                "apps"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Build all sources, tests, and benchmarks",
+            "type": "shell",
+            "command": "make",
+            "args": [
+                "-k",
+                "-j4",
+                "all"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        },
+        {
+            "label": "Run final Raft integration tests",
+            "type": "shell",
+            "command": "make",
+            "args": [
+                "test-final"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [],
+            "group": "test"
+        }
+    ]
+}

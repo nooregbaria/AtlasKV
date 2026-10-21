@@ -1,0 +1,578 @@
+put : 
+1clients:
+
+1:
+Client 0 connected to AtlasKV!
+
+Client 0:
+Average latency: 0.40 ms
+P50 latency: 0.27 ms
+P95 latency: 0.80 ms
+P99 latency: 2.67 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 4.11 seconds
+Throughput: 2435.83 requests/sec
+
+Total successful PUT requests: 10000
+Combined throughput: 2435.83 requests/sec
+
+2:
+Client 0 connected to AtlasKV!
+
+Client 0:
+Average latency: 0.56 ms
+P50 latency: 0.29 ms
+P95 latency: 1.17 ms
+P99 latency: 4.45 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 5.68 seconds
+Throughput: 1761.42 requests/sec
+
+Total successful PUT requests: 10000
+Combined throughput: 1761.42 requests/sec
+
+3:
+Client 0 connected to AtlasKV!
+
+Client 0:
+Average latency: 0.52 ms
+P50 latency: 0.29 ms
+P95 latency: 1.20 ms
+P99 latency: 4.20 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 5.30 seconds
+Throughput: 1887.04 requests/sec
+
+Total successful PUT requests: 10000
+Combined throughput: 1887.04 requests/sec
+
+5 clients :
+1:
+Client 1 connected to AtlasKV!
+Client 2 connected to AtlasKV!
+Client 3 connected to AtlasKV!
+Client 0 connected to AtlasKV!
+Client 4 connected to AtlasKV!
+
+Client 1:
+Average latency: 1.61 ms
+P50 latency: 1.13 ms
+P95 latency: 3.20 ms
+P99 latency: 9.12 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 16.18 seconds
+Throughput: 618.15 requests/sec
+
+Client 4:
+Average latency: 1.61 ms
+P50 latency: 1.13 ms
+P95 latency: 3.20 ms
+P99 latency: 9.42 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 16.18 seconds
+Throughput: 618.03 requests/sec
+
+Client 3:
+Average latency: 1.61 ms
+P50 latency: 1.13 ms
+P95 latency: 3.24 ms
+P99 latency: 8.95 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 16.20 seconds
+Throughput: 617.25 requests/sec
+
+Client 0:
+Average latency: 1.62 ms
+P50 latency: 1.13 ms
+P95 latency: 3.15 ms
+P99 latency: 9.41 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 16.21 seconds
+Throughput: 617.01 requests/sec
+
+Client 2:
+Average latency: 1.62 ms
+P50 latency: 1.13 ms
+P95 latency: 3.26 ms
+P99 latency: 9.23 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 16.22 seconds
+Throughput: 616.42 requests/sec
+
+Total successful PUT requests: 50000
+Combined throughput: 3082.09 requests/sec
+
+2:
+Client 0 connected to AtlasKV!
+Client 4 connected to AtlasKV!
+Client 2 connected to AtlasKV!
+Client 1 connected to AtlasKV!
+Client 3 connected to AtlasKV!
+
+Client 2:
+Average latency: 1.54 ms
+P50 latency: 1.05 ms
+P95 latency: 2.56 ms
+P99 latency: 9.02 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 15.46 seconds
+Throughput: 646.99 requests/sec
+
+Client 4:
+Average latency: 1.54 ms
+P50 latency: 1.05 ms
+P95 latency: 2.57 ms
+P99 latency: 8.76 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 15.47 seconds
+Throughput: 646.44 requests/sec
+
+Client 3:
+Average latency: 1.54 ms
+P50 latency: 1.05 ms
+P95 latency: 2.51 ms
+P99 latency: 9.16 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 15.47 seconds
+Throughput: 646.24 requests/sec
+
+Client 0:
+Average latency: 1.54 ms
+P50 latency: 1.05 ms
+P95 latency: 2.59 ms
+P99 latency: 9.19 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 15.48 seconds
+Throughput: 645.99 requests/sec
+
+Client 1:
+Average latency: 1.54 ms
+P50 latency: 1.05 ms
+P95 latency: 2.59 ms
+P99 latency: 8.85 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 15.50 seconds
+Throughput: 645.25 requests/sec
+
+Total successful PUT requests: 50000
+Combined throughput: 3226.22 requests/sec
+
+3:
+Client 0 connected to AtlasKV!
+Client 1 connected to AtlasKV!
+Client 2 connected to AtlasKV!
+Client 3 connected to AtlasKV!
+Client 4 connected to AtlasKV!
+
+Client 2:
+Average latency: 1.69 ms
+P50 latency: 1.25 ms
+P95 latency: 2.79 ms
+P99 latency: 9.55 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 17.00 seconds
+Throughput: 588.33 requests/sec
+
+Client 4:
+Average latency: 1.70 ms
+P50 latency: 1.25 ms
+P95 latency: 2.78 ms
+P99 latency: 9.21 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 17.04 seconds
+Throughput: 586.80 requests/sec
+
+Client 1:
+Average latency: 1.70 ms
+P50 latency: 1.25 ms
+P95 latency: 2.76 ms
+P99 latency: 9.18 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 17.04 seconds
+Throughput: 586.75 requests/sec
+
+Client 0:
+Average latency: 1.70 ms
+P50 latency: 1.25 ms
+P95 latency: 2.81 ms
+P99 latency: 9.40 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 17.06 seconds
+Throughput: 586.34 requests/sec
+
+Client 3:
+Average latency: 1.70 ms
+P50 latency: 1.25 ms
+P95 latency: 2.79 ms
+P99 latency: 10.15 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 17.06 seconds
+Throughput: 586.21 requests/sec
+
+Total successful PUT requests: 50000
+Combined throughput: 2931.03 requests/sec
+
+10 clients : 
+1:
+Client 5 connected to AtlasKV!
+Client 0 connected to AtlasKV!
+Client 3 connected to AtlasKV!
+Client 1 connected to AtlasKV!
+Client 6 connected to AtlasKV!
+Client 2 connected to AtlasKV!
+Client 7 connected to AtlasKV!
+Client 8 connected to AtlasKV!
+Client 4 connected to AtlasKV!
+Client 9 connected to AtlasKV!
+
+Client 2:
+Average latency: 2.89 ms
+P50 latency: 2.17 ms
+P95 latency: 5.45 ms
+P99 latency: 15.75 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 28.92 seconds
+Throughput: 345.78 requests/sec
+
+Client 9:
+Average latency: 2.88 ms
+P50 latency: 2.16 ms
+P95 latency: 5.48 ms
+P99 latency: 15.32 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 28.93 seconds
+Throughput: 345.64 requests/sec
+
+Client 0:
+Average latency: 2.89 ms
+P50 latency: 2.16 ms
+P95 latency: 5.50 ms
+P99 latency: 16.38 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 28.96 seconds
+Throughput: 345.35 requests/sec
+
+Client 1:
+Average latency: 2.89 ms
+P50 latency: 2.16 ms
+P95 latency: 5.45 ms
+P99 latency: 15.85 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 28.96 seconds
+Throughput: 345.27 requests/sec
+
+Client 3:
+Average latency: 2.89 ms
+P50 latency: 2.17 ms
+P95 latency: 5.50 ms
+P99 latency: 14.75 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 28.97 seconds
+Throughput: 345.19 requests/sec
+
+Client 6:
+Average latency: 2.89 ms
+P50 latency: 2.16 ms
+P95 latency: 5.42 ms
+P99 latency: 17.08 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 28.97 seconds
+Throughput: 345.15 requests/sec
+
+Client 8:
+Average latency: 2.89 ms
+P50 latency: 2.16 ms
+P95 latency: 5.45 ms
+P99 latency: 15.78 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 28.98 seconds
+Throughput: 345.09 requests/sec
+
+Client 7:
+Average latency: 2.89 ms
+P50 latency: 2.17 ms
+P95 latency: 5.54 ms
+P99 latency: 15.78 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 28.99 seconds
+Throughput: 344.94 requests/sec
+
+Client 4:
+Average latency: 2.90 ms
+P50 latency: 2.16 ms
+P95 latency: 5.44 ms
+P99 latency: 15.52 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 29.01 seconds
+Throughput: 344.71 requests/sec
+
+Client 5:
+Average latency: 2.90 ms
+P50 latency: 2.16 ms
+P95 latency: 5.48 ms
+P99 latency: 14.72 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 29.02 seconds
+Throughput: 344.61 requests/sec
+
+Total successful PUT requests: 100000
+Combined throughput: 3446.09 requests/sec
+
+2:
+Client 0 connected to AtlasKV!
+Client 2 connected to AtlasKV!
+Client 3 connected to AtlasKV!
+Client 1 connected to AtlasKV!
+Client 4 connected to AtlasKV!
+Client 5 connected to AtlasKV!
+Client 7 connected to AtlasKV!
+Client 6 connected to AtlasKV!
+Client 8 connected to AtlasKV!
+Client 9 connected to AtlasKV!
+
+Client 8:
+Average latency: 2.95 ms
+P50 latency: 2.21 ms
+P95 latency: 5.46 ms
+P99 latency: 15.32 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 29.55 seconds
+Throughput: 338.39 requests/sec
+
+Client 9:
+Average latency: 2.95 ms
+P50 latency: 2.20 ms
+P95 latency: 5.48 ms
+P99 latency: 15.66 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 29.56 seconds
+Throughput: 338.32 requests/sec
+
+Client 4:
+Average latency: 2.95 ms
+P50 latency: 2.20 ms
+P95 latency: 5.42 ms
+P99 latency: 16.08 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 29.58 seconds
+Throughput: 338.06 requests/sec
+
+Client 1:
+Average latency: 2.96 ms
+P50 latency: 2.20 ms
+P95 latency: 5.42 ms
+P99 latency: 16.74 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 29.61 seconds
+Throughput: 337.73 requests/sec
+
+Client 3:
+Average latency: 2.96 ms
+P50 latency: 2.20 ms
+P95 latency: 5.59 ms
+P99 latency: 15.29 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 29.61 seconds
+Throughput: 337.69 requests/sec
+
+Client 6:
+Average latency: 2.96 ms
+P50 latency: 2.20 ms
+P95 latency: 5.55 ms
+P99 latency: 16.37 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 29.63 seconds
+Throughput: 337.51 requests/sec
+
+Client 7:
+Average latency: 2.96 ms
+P50 latency: 2.20 ms
+P95 latency: 5.52 ms
+P99 latency: 16.24 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 29.63 seconds
+Throughput: 337.49 requests/sec
+
+Client 2:
+Average latency: 2.96 ms
+P50 latency: 2.20 ms
+P95 latency: 5.50 ms
+P99 latency: 16.66 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 29.70 seconds
+Throughput: 336.69 requests/sec
+
+Client 0:
+Average latency: 2.96 ms
+P50 latency: 2.20 ms
+P95 latency: 5.40 ms
+P99 latency: 16.40 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 29.70 seconds
+Throughput: 336.67 requests/sec
+
+Client 5:
+Average latency: 2.97 ms
+P50 latency: 2.20 ms
+P95 latency: 5.56 ms
+P99 latency: 16.85 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 29.72 seconds
+Throughput: 336.50 requests/sec
+
+Total successful PUT requests: 100000
+Combined throughput: 3364.96 requests/sec
+
+3:
+Client 1 connected to AtlasKV!
+Client 0 connected to AtlasKV!
+Client 6 connected to AtlasKV!
+Client 3 connected to AtlasKV!
+Client 5 connected to AtlasKV!
+Client 8 connected to AtlasKV!
+Client 2 connected to AtlasKV!
+Client 4 connected to AtlasKV!
+Client 7 connected to AtlasKV!
+Client 9 connected to AtlasKV!
+
+Client 6:
+Average latency: 3.54 ms
+P50 latency: 2.27 ms
+P95 latency: 7.80 ms
+P99 latency: 27.39 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 35.46 seconds
+Throughput: 281.98 requests/sec
+
+Client 8:
+Average latency: 3.56 ms
+P50 latency: 2.27 ms
+P95 latency: 7.91 ms
+P99 latency: 26.26 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 35.63 seconds
+Throughput: 280.70 requests/sec
+
+Client 2:
+Average latency: 3.56 ms
+P50 latency: 2.28 ms
+P95 latency: 7.92 ms
+P99 latency: 25.34 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 35.68 seconds
+Throughput: 280.27 requests/sec
+
+Client 1:
+Average latency: 3.56 ms
+P50 latency: 2.27 ms
+P95 latency: 7.86 ms
+P99 latency: 27.41 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 35.68 seconds
+Throughput: 280.24 requests/sec
+
+Client 3:
+Average latency: 3.56 ms
+P50 latency: 2.28 ms
+P95 latency: 7.95 ms
+P99 latency: 25.47 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 35.70 seconds
+Throughput: 280.10 requests/sec
+
+Client 4:
+Average latency: 3.57 ms
+P50 latency: 2.28 ms
+P95 latency: 7.97 ms
+P99 latency: 28.38 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 35.72 seconds
+Throughput: 279.98 requests/sec
+
+Client 0:
+Average latency: 3.57 ms
+P50 latency: 2.27 ms
+P95 latency: 8.07 ms
+P99 latency: 27.76 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 35.72 seconds
+Throughput: 279.95 requests/sec
+
+Client 7:
+Average latency: 3.58 ms
+P50 latency: 2.28 ms
+P95 latency: 7.96 ms
+P99 latency: 27.39 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 35.82 seconds
+Throughput: 279.21 requests/sec
+
+Client 9:
+Average latency: 3.58 ms
+P50 latency: 2.27 ms
+P95 latency: 7.88 ms
+P99 latency: 26.57 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 35.85 seconds
+Throughput: 278.92 requests/sec
+
+Client 5:
+Average latency: 3.61 ms
+P50 latency: 2.27 ms
+P95 latency: 8.16 ms
+P99 latency: 28.79 ms
+PUT requests: 10000
+Successful requests: 10000
+Total time: 36.19 seconds
+Throughput: 276.35 requests/sec
+
+Total successful PUT requests: 100000
+Combined throughput: 2763.48 requests/sec
+

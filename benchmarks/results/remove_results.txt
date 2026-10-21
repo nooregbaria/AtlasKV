@@ -1,0 +1,580 @@
+remove:
+client 1:
+1:
+Client 0 connected to AtlasKV!
+
+Client 0:
+Average latency: 0.34 ms
+P50 latency: 0.22 ms
+P95 latency: 0.62 ms
+P99 latency: 2.09 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 3.43 seconds
+Throughput: 2916.38 requests/sec
+
+Total successful REMOVE requests: 10000
+Combined throughput: 2916.38 requests/sec
+
+2:
+Client 0 connected to AtlasKV!
+
+Client 0:
+Average latency: 0.45 ms
+P50 latency: 0.27 ms
+P95 latency: 0.94 ms
+P99 latency: 3.69 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 4.60 seconds
+Throughput: 2171.97 requests/sec
+
+Total successful REMOVE requests: 10000
+Combined throughput: 2171.97 requests/sec
+
+3:
+Client 0 connected to AtlasKV!
+
+Client 0:
+Average latency: 0.32 ms
+P50 latency: 0.22 ms
+P95 latency: 0.52 ms
+P99 latency: 1.67 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 3.27 seconds
+Throughput: 3056.32 requests/sec
+
+Total successful REMOVE requests: 10000
+Combined throughput: 3056.32 requests/sec
+
+5 clients :
+1:
+Client 0 connected to AtlasKV!
+Client 1 connected to AtlasKV!
+Client 2 connected to AtlasKV!
+Client 4 connected to AtlasKV!
+Client 3 connected to AtlasKV!
+
+Client 1:
+Average latency: 1.37 ms
+P50 latency: 0.99 ms
+P95 latency: 2.21 ms
+P99 latency: 6.67 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 13.74 seconds
+Throughput: 727.64 requests/sec
+
+Client 2:
+Average latency: 1.37 ms
+P50 latency: 0.99 ms
+P95 latency: 2.22 ms
+P99 latency: 6.99 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 13.75 seconds
+Throughput: 727.50 requests/sec
+
+Client 3:
+Average latency: 1.37 ms
+P50 latency: 0.99 ms
+P95 latency: 2.21 ms
+P99 latency: 6.96 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 13.76 seconds
+Throughput: 726.73 requests/sec
+
+Client 0:
+Average latency: 1.37 ms
+P50 latency: 0.99 ms
+P95 latency: 2.26 ms
+P99 latency: 6.88 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 13.77 seconds
+Throughput: 726.43 requests/sec
+
+Client 4:
+Average latency: 1.37 ms
+P50 latency: 0.99 ms
+P95 latency: 2.26 ms
+P99 latency: 6.89 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 13.77 seconds
+Throughput: 726.34 requests/sec
+
+Total successful REMOVE requests: 50000
+Combined throughput: 3631.72 requests/sec
+
+2:
+Client 2 connected to AtlasKV!
+Client 0 connected to AtlasKV!
+Client 1 connected to AtlasKV!
+Client 4 connected to AtlasKV!
+Client 3 connected to AtlasKV!
+
+Client 4:
+Average latency: 1.36 ms
+P50 latency: 1.05 ms
+P95 latency: 2.53 ms
+P99 latency: 7.88 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 13.65 seconds
+Throughput: 732.79 requests/sec
+
+Client 2:
+Average latency: 1.36 ms
+P50 latency: 1.05 ms
+P95 latency: 2.55 ms
+P99 latency: 7.69 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 13.65 seconds
+Throughput: 732.47 requests/sec
+
+Client 3:
+Average latency: 1.36 ms
+P50 latency: 1.05 ms
+P95 latency: 2.53 ms
+P99 latency: 8.07 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 13.66 seconds
+Throughput: 732.29 requests/sec
+
+Client 0:
+Average latency: 1.36 ms
+P50 latency: 1.05 ms
+P95 latency: 2.56 ms
+P99 latency: 7.96 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 13.66 seconds
+Throughput: 732.05 requests/sec
+
+Client 1:
+Average latency: 1.36 ms
+P50 latency: 1.05 ms
+P95 latency: 2.47 ms
+P99 latency: 8.44 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 13.66 seconds
+Throughput: 731.97 requests/sec
+
+Total successful REMOVE requests: 50000
+Combined throughput: 3659.86 requests/sec
+
+3:
+Client 2 connected to AtlasKV!
+Client 3 connected to AtlasKV!
+Client 0 connected to AtlasKV!
+Client 1 connected to AtlasKV!
+Client 4 connected to AtlasKV!
+
+Client 3:
+Average latency: 1.15 ms
+P50 latency: 0.91 ms
+P95 latency: 1.69 ms
+P99 latency: 4.07 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 11.52 seconds
+Throughput: 868.01 requests/sec
+
+Client 2:
+Average latency: 1.15 ms
+P50 latency: 0.91 ms
+P95 latency: 1.67 ms
+P99 latency: 4.26 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 11.52 seconds
+Throughput: 867.68 requests/sec
+
+Client 0:
+Average latency: 1.15 ms
+P50 latency: 0.91 ms
+P95 latency: 1.68 ms
+P99 latency: 4.41 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 11.53 seconds
+Throughput: 867.32 requests/sec
+
+Client 1:
+Average latency: 1.15 ms
+P50 latency: 0.91 ms
+P95 latency: 1.69 ms
+P99 latency: 4.39 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 11.53 seconds
+Throughput: 867.14 requests/sec
+
+Client 4:
+Average latency: 1.15 ms
+P50 latency: 0.91 ms
+P95 latency: 1.71 ms
+P99 latency: 4.12 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 11.53 seconds
+Throughput: 866.95 requests/sec
+
+Total successful REMOVE requests: 50000
+Combined throughput: 4334.74 requests/sec
+
+10 clients  :
+1:
+Client 1 connected to AtlasKV!
+Client 0 connected to AtlasKV!
+Client 2 connected to AtlasKV!
+Client 8 connected to AtlasKV!
+Client 6 connected to AtlasKV!
+Client 3 connected to AtlasKV!
+Client 4 connected to AtlasKV!
+Client 7 connected to AtlasKV!
+Client 5 connected to AtlasKV!
+Client 9 connected to AtlasKV!
+
+Client 5:
+Average latency: 2.44 ms
+P50 latency: 1.92 ms
+P95 latency: 3.88 ms
+P99 latency: 10.58 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 24.49 seconds
+Throughput: 408.31 requests/sec
+
+Client 7:
+Average latency: 2.44 ms
+P50 latency: 1.91 ms
+P95 latency: 3.84 ms
+P99 latency: 9.86 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 24.49 seconds
+Throughput: 408.33 requests/sec
+
+Client 3:
+Average latency: 2.45 ms
+P50 latency: 1.92 ms
+P95 latency: 3.82 ms
+P99 latency: 10.43 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 24.50 seconds
+Throughput: 408.10 requests/sec
+
+Client 0:
+Average latency: 2.45 ms
+P50 latency: 1.91 ms
+P95 latency: 3.84 ms
+P99 latency: 10.10 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 24.51 seconds
+Throughput: 408.06 requests/sec
+
+Client 1:
+Average latency: 2.45 ms
+P50 latency: 1.91 ms
+P95 latency: 3.89 ms
+P99 latency: 10.64 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 24.51 seconds
+Throughput: 408.02 requests/sec
+
+Client 9:
+Average latency: 2.45 ms
+P50 latency: 1.91 ms
+P95 latency: 3.86 ms
+P99 latency: 11.43 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 24.51 seconds
+Throughput: 407.98 requests/sec
+
+Client 8:
+Average latency: 2.45 ms
+P50 latency: 1.92 ms
+P95 latency: 3.83 ms
+P99 latency: 10.32 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 24.51 seconds
+Throughput: 407.99 requests/sec
+
+Client 2:
+Average latency: 2.45 ms
+P50 latency: 1.92 ms
+P95 latency: 3.85 ms
+P99 latency: 9.51 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 24.51 seconds
+Throughput: 407.93 requests/sec
+
+Client 6:
+Average latency: 2.45 ms
+P50 latency: 1.91 ms
+P95 latency: 3.85 ms
+P99 latency: 10.73 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 24.52 seconds
+Throughput: 407.79 requests/sec
+
+Client 4:
+Average latency: 2.45 ms
+P50 latency: 1.91 ms
+P95 latency: 3.83 ms
+P99 latency: 10.51 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 24.52 seconds
+Throughput: 407.79 requests/sec
+
+Total successful REMOVE requests: 100000
+Combined throughput: 4077.89 requests/sec
+
+2:
+Client 0 connected to AtlasKV!
+Client 6 connected to AtlasKV!
+Client 2 connected to AtlasKV!
+Client 8 connected to AtlasKV!
+Client 5 connected to AtlasKV!
+Client 4 connected to AtlasKV!
+Client 1 connected to AtlasKV!
+Client 3 connected to AtlasKV!
+Client 9 connected to AtlasKV!
+Client 7 connected to AtlasKV!
+
+Client 0:
+Average latency: 2.56 ms
+P50 latency: 2.09 ms
+P95 latency: 4.22 ms
+P99 latency: 9.91 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 25.70 seconds
+Throughput: 389.18 requests/sec
+
+Client 1:
+Average latency: 2.57 ms
+P50 latency: 2.09 ms
+P95 latency: 4.24 ms
+P99 latency: 9.79 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 25.70 seconds
+Throughput: 389.04 requests/sec
+
+Client 5:
+Average latency: 2.57 ms
+P50 latency: 2.09 ms
+P95 latency: 4.19 ms
+P99 latency: 10.00 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 25.72 seconds
+Throughput: 388.83 requests/sec
+
+Client 3:
+Average latency: 2.57 ms
+P50 latency: 2.09 ms
+P95 latency: 4.22 ms
+P99 latency: 10.55 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 25.73 seconds
+Throughput: 388.67 requests/sec
+
+Client 6:
+Average latency: 2.57 ms
+P50 latency: 2.09 ms
+P95 latency: 4.18 ms
+P99 latency: 10.41 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 25.73 seconds
+Throughput: 388.64 requests/sec
+
+Client 4:
+Average latency: 2.57 ms
+P50 latency: 2.09 ms
+P95 latency: 4.24 ms
+P99 latency: 10.10 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 25.73 seconds
+Throughput: 388.63 requests/sec
+
+Client 9:
+Average latency: 2.57 ms
+P50 latency: 2.09 ms
+P95 latency: 4.28 ms
+P99 latency: 9.53 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 25.73 seconds
+Throughput: 388.62 requests/sec
+
+Client 7:
+Average latency: 2.57 ms
+P50 latency: 2.09 ms
+P95 latency: 4.24 ms
+P99 latency: 10.20 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 25.73 seconds
+Throughput: 388.61 requests/sec
+
+Client 8:
+Average latency: 2.57 ms
+P50 latency: 2.09 ms
+P95 latency: 4.26 ms
+P99 latency: 9.97 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 25.73 seconds
+Throughput: 388.59 requests/sec
+
+Client 2:
+Average latency: 2.57 ms
+P50 latency: 2.09 ms
+P95 latency: 4.29 ms
+P99 latency: 10.18 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 25.74 seconds
+Throughput: 388.44 requests/sec
+
+Total successful REMOVE requests: 100000
+Combined throughput: 3884.42 requests/sec
+
+3:
+Client 3 connected to AtlasKV!
+Client 5 connected to AtlasKV!
+Client 0 connected to AtlasKV!
+Client 2 connected to AtlasKV!
+Client 6 connected to AtlasKV!
+Client 1 connected to AtlasKV!
+Client 7 connected to AtlasKV!
+Client 8 connected to AtlasKV!
+Client 4 connected to AtlasKV!
+Client 9 connected to AtlasKV!
+
+Client 2:
+Average latency: 2.30 ms
+P50 latency: 1.93 ms
+P95 latency: 3.38 ms
+P99 latency: 7.98 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 23.00 seconds
+Throughput: 434.75 requests/sec
+
+Client 6:
+Average latency: 2.30 ms
+P50 latency: 1.93 ms
+P95 latency: 3.31 ms
+P99 latency: 7.86 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 23.05 seconds
+Throughput: 433.75 requests/sec
+
+Client 3:
+Average latency: 2.30 ms
+P50 latency: 1.93 ms
+P95 latency: 3.39 ms
+P99 latency: 8.58 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 23.07 seconds
+Throughput: 433.44 requests/sec
+
+Client 0:
+Average latency: 2.30 ms
+P50 latency: 1.93 ms
+P95 latency: 3.36 ms
+P99 latency: 8.20 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 23.07 seconds
+Throughput: 433.38 requests/sec
+
+Client 1:
+Average latency: 2.30 ms
+P50 latency: 1.94 ms
+P95 latency: 3.30 ms
+P99 latency: 8.11 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 23.08 seconds
+Throughput: 433.36 requests/sec
+
+Client 5:
+Average latency: 2.30 ms
+P50 latency: 1.93 ms
+P95 latency: 3.35 ms
+P99 latency: 8.12 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 23.08 seconds
+Throughput: 433.31 requests/sec
+
+Client 7:
+Average latency: 2.30 ms
+P50 latency: 1.93 ms
+P95 latency: 3.37 ms
+P99 latency: 8.08 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 23.08 seconds
+Throughput: 433.25 requests/sec
+
+Client 8:
+Average latency: 2.30 ms
+P50 latency: 1.93 ms
+P95 latency: 3.35 ms
+P99 latency: 7.77 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 23.08 seconds
+Throughput: 433.23 requests/sec
+
+Client 4:
+Average latency: 2.30 ms
+P50 latency: 1.93 ms
+P95 latency: 3.37 ms
+P99 latency: 8.60 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 23.08 seconds
+Throughput: 433.20 requests/sec
+
+Client 9:
+Average latency: 2.30 ms
+P50 latency: 1.93 ms
+P95 latency: 3.33 ms
+P99 latency: 7.75 ms
+REMOVE requests: 10000
+Successful requests: 10000
+Total time: 23.09 seconds
+Throughput: 433.15 requests/sec
+
+Total successful REMOVE requests: 100000
+Combined throughput: 4331.45 requests/sec
+
+
+
+OMG my computer is about to crash

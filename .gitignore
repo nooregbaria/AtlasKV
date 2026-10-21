@@ -1,0 +1,21 @@
+# Build products, local tools, and operating-system metadata.
+/build/
+*.dSYM/
+.DS_Store
+__pycache__/
+*.pyc
+core
+
+# Runtime state is local; existing files are preserved in place.
+/*.state
+/*.state.log
+/*.state.tmp
+/raft_node_*.applied
+/raft_node_*.unused_legacy_wal
+/log.txt
+/replica_log.txt
+/corruption_test/
+/recovery_test/
+/raft_replication_test_data/
+/tests/phase6_test_*.log
+/tests/phase6_test_*.wal
